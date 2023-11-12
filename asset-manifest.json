@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Packing-List-for-a-trip/static/css/main.825a3e8f.css",
-    "main.js": "/Packing-List-for-a-trip/static/js/main.e8fd247a.js",
+    "main.js": "/Packing-List-for-a-trip/static/js/main.b566a673.js",
     "index.html": "/Packing-List-for-a-trip/index.html",
     "main.825a3e8f.css.map": "/Packing-List-for-a-trip/static/css/main.825a3e8f.css.map",
-    "main.e8fd247a.js.map": "/Packing-List-for-a-trip/static/js/main.e8fd247a.js.map"
+    "main.b566a673.js.map": "/Packing-List-for-a-trip/static/js/main.b566a673.js.map"
   },
   "entrypoints": [
     "static/css/main.825a3e8f.css",
-    "static/js/main.e8fd247a.js"
+    "static/js/main.b566a673.js"
   ]
 }
